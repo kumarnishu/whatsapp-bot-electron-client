@@ -1,12 +1,16 @@
 # whatsappbot
 
-An Electron application with React and TypeScript
+Whatsapp BOT CLIENT Electron application with React and TypeScript
 
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Project Setup
+
+## ENV
+RENDERER_VITE_NODE_ENV="development"
+RENDERER_VITE_SERVER_URL="http://localhost:5000"
 
 ### Install
 
